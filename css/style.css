@@ -1,0 +1,49 @@
+body {
+    background-image:url(../img/leaves.png);
+    font-size: 21px;
+    color: blue;
+}
+p{
+    color: red;
+    font-size: 21px;
+}
+.intro{
+    background-color: blue;
+}
+marquee{
+    direction:"right";
+    color:black;
+    height:25px; 
+    width:100%; 
+    margin-top: 60px;
+    background-color: red;
+}
+
+span{
+    background-color: black;
+    font-size: 40px;
+}
+.sec1{
+    background-color: black;
+    color: brown;
+}
+#sec2{
+    background-color: white;
+    font-size: 10;
+    color:chartreuse;
+}
+.box{
+    background-color: darkgoldenrod;
+    width:300px;
+    margin:100px;
+    border:100px dashed red;
+    border-left: 100px solid black;
+    border-right: 100px dashed
+}
+.box1{
+    color:blueviolet;
+    padding:200px 300px;
+    background-image:url(../img/pic1.jpeg);
+    background-size: cover;
+    background-position: center;
+}
